@@ -1,0 +1,33 @@
+_repo: The-Voyage-of-the-Rattletrap_16586
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wilder, Herbert Merrill
+    alias: Wilder, H. M.
+    birthdate: 1864
+    gutenberg_agent_id: '6806'
+    url: http://www.gutenberg.org/2009/agents/6806
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carruth, Hayden
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '6805'
+    url: http://www.gutenberg.org/2009/agents/6805
+description: ''
+gutenberg_issued: '2005-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Dakota Territory -- Fiction'
+title: The Voyage of the Rattletrap
+url: http://www.gutenberg.org/ebooks/16586
